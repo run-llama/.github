@@ -1,2 +1,1 @@
-# LlamaIndex
-## Turn your data into production-ready LLM applications
+This is a special repo for GitHub things.
