@@ -1,5 +1,5 @@
 <p align="center" float="left">
-  <img alt="LlamaIndex Logo" src="https://raw.githubusercontent.com/run-llama/.github/refs/heads/main/logos/llamaindex-dark.png" width="28%"/>
+  <img alt="LlamaIndex Logo" src="https://raw.githubusercontent.com/run-llama/.github/refs/heads/main/logos/llamaindex-dark.png#gh-light-mode-only" width="28%"/>
   &nbsp;
   <img alt="LlamaIndex Framework" src="https://raw.githubusercontent.com/run-llama/.github/refs/heads/main/logos/llamaindex-light.png#gh-dark-mode-only" width="30%"/>
 </p>
