@@ -6,11 +6,16 @@
 
 Build LLM-powered agents over your data. LlamaIndex provides the tools to implement composable AI systems that are easy to use, customize, extend and ultimately deploy to production.
 
-| **🦙 Open Source** | **☁️ LlamaCloud** |
-|-------------------|-------------------|
-| • [LlamaIndex (Python)](https://github.com/run-llama/llama_index/) & [Docs](https://docs.llamaindex.ai/en/stable/?utm_source=github&utm_medium=org_card)<br>• [LlamaIndex.TS](http://github.com/run-llama/LlamaIndexTS) & [Docs](https://ts.llamaindex.ai/?utm_source=github&utm_medium=org_card)<br>• [LlamaHub](https://llamahub.ai/) | • [Index](https://www.llamaindex.ai/enterprise?utm_source=github&utm_medium=org_card)<br>• [Parse](https://www.llamaindex.ai/llamaparse?utm_source=github&utm_medium=org_card)<br>• [Extract](https://www.llamaindex.ai/llamaextract?utm_source=github&utm_medium=org_card) |
-| **📚 Learn** | **💜 Community** |
-| • [Blog](https://lamaindex.ai/blog/?utm_source=github&utm_medium=org_card)<br>• [Examples]() | • [Upcoming Community Events Calendar](https://lu.ma/llamaindex?k=c)<br>• [Join us on Discord](https://discord.gg/dyXhYTy5pu) |
+<table width="100%">
+  <tr>
+    <td width="50%"><strong>🦙 Open Source</strong><br>• <a href="https://github.com/run-llama/llama_index/">LlamaIndex (Python)</a> & <a href="https://docs.llamaindex.ai/en/stable/?utm_source=github&utm_medium=org_card">Docs</a><br>• <a href="http://github.com/run-llama/LlamaIndexTS">LlamaIndex.TS</a> & <a href="https://ts.llamaindex.ai/?utm_source=github&utm_medium=org_card">Docs</a><br>• <a href="https://llamahub.ai/">LlamaHub</a></td>
+    <td width="50%"><strong>☁️ LlamaCloud</strong><br>• <a href="https://www.llamaindex.ai/enterprise?utm_source=github&utm_medium=org_card">Index</a><br>• <a href="https://www.llamaindex.ai/llamaparse?utm_source=github&utm_medium=org_card">Parse</a><br>• <a href="https://www.llamaindex.ai/llamaextract?utm_source=github&utm_medium=org_card">Extract</a></td>
+  </tr>
+  <tr>
+    <td width="50%"><strong>📚 Learn</strong><br>• <a href="https://lamaindex.ai/blog/?utm_source=github&utm_medium=org_card">Blog</a><br>• <a href="https://docs.llamaindex.ai/en/stable/examples/?utm_source=github&utm_medium=org_card">Examples</a></td>
+    <td width="50%"><strong>💜 Community</strong><br>• <a href="https://lu.ma/llamaindex?k=c">Upcoming Community Events Calendar</a><br>• <a href="https://discord.gg/dyXhYTy5pu">Join us on Discord</a></td>
+  </tr>
+</table>
 
 ---
 
