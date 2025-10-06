@@ -4,6 +4,18 @@
   <img alt="LlamaIndex Framework" src="https://raw.githubusercontent.com/run-llama/.github/refs/heads/main/logos/llamaindex-light.png#gh-dark-mode-only" width="30%"/>
 </p>
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+       →
+       <a href="https://landing.llamaindex.ai/llamaagents?utm_source=github&utm_medium=org_card">Sign-up for updates on LlamaAgents and a chance for early access</a>
+        ←
+      </td>
+    </tr>
+  </table>
+</div>
+
 Build LLM-powered agents over your data. LlamaIndex provides the tools to implement composable AI systems that are easy to use, customize, extend and ultimately deploy to production.
 
 **🦙 Open Source Agent Frameworks and Integrations**
