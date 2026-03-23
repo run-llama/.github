@@ -1,40 +1,18 @@
 <p align="center" float="left">
-  <img alt="LlamaIndex Logo" src="https://raw.githubusercontent.com/run-llama/.github/refs/heads/main/logos/llamaindex-dark.png#gh-light-mode-only" width="28%"/>
-  &nbsp;
-  <img alt="LlamaIndex Framework" src="https://raw.githubusercontent.com/run-llama/.github/refs/heads/main/logos/llamaindex-light.png#gh-dark-mode-only" width="30%"/>
+  <img alt="LlamaIndex Logo" src="https://raw.githubusercontent.com/run-llama/.github/refs/heads/main/logos/LlamaIndex_Logo_onBlackBackground.png" />
 </p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-       →
-       <a href="https://landing.llamaindex.ai/llamaagents?utm_source=github&utm_medium=org_card">Sign-up for updates on LlamaAgents and a chance for early access</a>
-        ←
-      </td>
-    </tr>
-  </table>
-</div>
+Use SOTA Agentic OCR from LlamaParse to power your document workflows and agents.
 
-Build LLM-powered agents over your data. LlamaIndex provides the tools to implement composable AI systems that are easy to use, customize, extend and ultimately deploy to production.
-
-**🦙 Open Source Agent Frameworks and Integrations**
-- [LlamaIndex (Python)](https://github.com/run-llama/llama_index/) & [Docs](https://docs.llamaindex.ai/en/stable/?utm_source=github&utm_medium=org_card)
-- [LlamaIndex.TS](http://github.com/run-llama/LlamaIndexTS) & [Docs](https://ts.llamaindex.ai/?utm_source=github&utm_medium=org_card)
-- [LlamaHub](https://llamahub.ai/)
-
-**☁️ LlamaCloud Products**
-- [Index](https://www.llamaindex.ai/enterprise?utm_source=github&utm_medium=org_card)
+**☁️ LlamaParse Products**
 - [Parse](https://www.llamaindex.ai/llamaparse?utm_source=github&utm_medium=org_card)
 - [Extract](https://www.llamaindex.ai/llamaextract?utm_source=github&utm_medium=org_card)
+- [Platform Documentation](https://developers.llamaindex.ai/python/cloud/?utm_source=github&utm_medium=org_card)
 
-**📚 Learn**
-- [Blog](https://lamaindex.ai/blog/?utm_source=github&utm_medium=org_card)
-- [Examples](https://docs.llamaindex.ai/en/stable/examples/?utm_source=github&utm_medium=org_card)
-
-**💜 Community**
-- [Upcoming Community Events Calendar](https://lu.ma/llamaindex?k=c)
-- [Join us on Discord](https://discord.gg/dyXhYTy5pu)
+**🦙 Open Source**
+- [LiteParse](http://github.com/run-llama/liteparse) & [Docs](?utm_source=github&utm_medium=org_card)
+- [LlamaAgents](https://github.com/run-llama/workflows-py) & [Docs](https://developers.llamaindex.ai/python/llamaagents/overview/?utm_source=github&utm_medium=org_card)
+- [LlamaIndex (Python)](https://github.com/run-llama/llama_index/) & [Docs](https://docs.llamaindex.ai/en/stable/?utm_source=github&utm_medium=org_card)
 
 ---
 
